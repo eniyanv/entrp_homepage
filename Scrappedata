@@ -1,0 +1,74 @@
+Last Refresh: 11/04/2019 16:12:49
+Page View tag (Production)
+Tag Type (tid):"1" (Page View tag)
+Category ID (cg):"687PDC:ABOUT US"
+Attribute 1 (pv_a1):"687PDC"
+Attribute 2 (pv_a2):"687PDC"
+Attribute 3 (pv_a3):"687PDC"
+Attribute 4 (pv_a4):"EN"
+Client ID (ci):"50810000|687PDC;50820000|687PDC"
+Library Version (vn1):"4.22.118"
+Character Set (ec):"utf-8"
+Page ID (pi):"687PDC - United States - ABOUT US - About Parker"
+Destination URL (ul):"https://www.parker.com/portal/site/PARKER/menuitem.f830ba32f37af5fe2c5c8810427ad1ca/?vgnextoid=7de94bad565e4310VgnVCM10000014a71dacRCRD&vgnextfmt=EN"
+
+
+Element tag (Production)
+Tag Type (tid):"15" (Element tag)
+Client ID (ci):"50810000|687PDC;50820000|687PDC"
+Library Version (vn1):"4.22.118"
+Character Set (ec):"utf-8"
+Element ID (eid):"Demandbase"
+Element Category (ecat):"Company data"
+Page ID (pi):"687PDC - United States - ABOUT US - About Parker"
+Attribute 1 (e_a1):"Detailed"
+Attribute 2 (e_a2):"Enterprise Business"
+Attribute 3 (e_a3):"Business Services"
+Attribute 4 (e_a4):"false"
+Attribute 6 (e_a6):"Tech Mahindra Limited"
+Attribute 9 (e_a9):"IN"
+Attribute 11 (e_a11):"20"
+Attribute 12 (e_a12):"77"
+Attribute 14 (e_a14):"Tech Mahindra Ltd"
+Attribute 15 (e_a15):"Tech Mahindra"
+Attribute 17 (e_a17):"false"
+Attribute 18 (e_a18):"false"
+Attribute 19 (e_a19):"Business Services"
+Attribute 20 (e_a20):"General"
+Attribute 21 (e_a21):"Enterprise"
+Attribute 22 (e_a22):"$2.5B - $5B"
+Attribute 23 (e_a23):"82176"
+Attribute 24 (e_a24):"3995403160"
+Attribute 25 (e_a25):" 91 20 6601 8100"
+Attribute 26 (e_a26):"Sharda Centre Off Karve Road"
+Attribute 27 (e_a27):"Pune"
+Attribute 29 (e_a29):"IN"
+Attribute 31 (e_a31):"techmahindra.com"
+Attribute 33 (e_a33):"115100593"
+Attribute 34 (e_a34):"8999"
+Attribute 37 (e_a37):"119.151.36.63"
+Attribute 38 (e_a38):"High"
+Attribute 39 (e_a39):"true"
+Attribute 40 (e_a40):"true"
+Destination URL (ul):"https://www.parker.com/portal/site/PARKER/menuitem.f830ba32f37af5fe2c5c8810427ad1ca/?vgnextoid=7de94bad565e4310VgnVCM10000014a71dacRCRD&vgnextfmt=EN"
+
+
+Link Click tag (Production)
+Tag Type (tid):"8" (Link Click tag)
+Target HREF/URL (hr):"#basic_html2"
+Client ID (ci):"50810000|687PDC;50820000|687PDC"
+Library Version (vn1):"4.22.118"
+Character Set (ec):"utf-8"
+Page ID (pi):"687PDC - United States - ABOUT US - About Parker"
+Destination URL (ul):"https://www.parker.com"
+
+
+Frame contains: https://www.parker.com/portal/site/PARKER/menuitem.f830ba32f37af5fe2c5c8810427ad1ca/?vgnextoid=7de94bad565e4310VgnVCM10000014a71dacRCRD&vgnextfmt=EN
+There are no tags in this frame.
+
+
+Frame contains: about:blank
+There are no tags in this frame.
+
+
+Access to this frame is not allowed
